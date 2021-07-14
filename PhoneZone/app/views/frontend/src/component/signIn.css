@@ -1,0 +1,11 @@
+.signInForm {
+  margin: 50px auto;
+  background-color: rgb(230, 227, 227);
+  padding: 50px;
+  border-radius: 10px;
+  width: 70%;
+}
+
+.error {
+  color: red;
+}
