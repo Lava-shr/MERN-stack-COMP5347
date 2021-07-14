@@ -1,4 +1,4 @@
-# MERN-stack-COMP5347 Group Project- PhoneZone
+## MERN-stack-COMP5347 Group Project- PhoneZone
 
 PhoneZone is a web application where people can buy mobile phone. The website have feature to show you the best seller and sold out soon in the Homepage. Furthermore, shows you the reviews of the people who have already bought the phones before.
 
